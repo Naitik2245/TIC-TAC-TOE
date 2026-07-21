@@ -1,2 +1,2 @@
 # TIC-TAC-TOE
-A interesting game which is play by two player.
+A interesting game which is play by two player using HTML, CSS, JAVASCRIPT>
